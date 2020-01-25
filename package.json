@@ -1,6 +1,6 @@
 {
   "name": "random-messages-purple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my first project in npm, love learning, it'll give you random names :P ",
   "main": "src/index.js",
   "scripts": {
